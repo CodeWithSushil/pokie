@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nunomaduro/pokio.git",
-                "reference": "61e5d49a7609ede42a4380aed7ffd861378a1e7f"
+                "reference": "e4d18174f6b0d0b5e44608ef5f53a6eef22f775d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nunomaduro/pokio/zipball/61e5d49a7609ede42a4380aed7ffd861378a1e7f",
-                "reference": "61e5d49a7609ede42a4380aed7ffd861378a1e7f",
+                "url": "https://api.github.com/repos/nunomaduro/pokio/zipball/e4d18174f6b0d0b5e44608ef5f53a6eef22f775d",
+                "reference": "e4d18174f6b0d0b5e44608ef5f53a6eef22f775d",
                 "shasum": ""
             },
             "require": {
@@ -31,7 +31,7 @@
                 "peckphp/peck": "^0.1.3",
                 "pestphp/pest": "^4.0.0",
                 "pestphp/pest-plugin-type-coverage": "^4.0.0",
-                "phpstan/phpstan": "^2.1.16",
+                "phpstan/phpstan": "^2.1.17",
                 "rector/rector": "^2.0.16",
                 "symfony/var-dumper": "^7.2.6"
             },
@@ -80,7 +80,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2025-05-23T12:10:13+00:00"
+            "time": "2025-05-23T18:45:08+00:00"
         }
     ],
     "packages-dev": [],
