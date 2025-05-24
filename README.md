@@ -23,7 +23,10 @@ echo $resB; // Task 2
 ```
 
 ## Android (Termux)
-if you are a `Android` user, its means you are geting error, so i am fixed that problem for you so follow this file changes in `vendor`:
+if you are a `Android` user, its means you are geting error, so i am fixed that problem for you so follow this file changes in `vendor/pokio/src/Runtime/Fork
+/IPC.php`:
 ```php
+43 
+
 117 $lib = PHP_OS_FAMILY === 'Darwin' ? 'libc.dylib' : 'libc.so'; // befour libc.so.6
 ```
